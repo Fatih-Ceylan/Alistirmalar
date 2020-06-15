@@ -1,0 +1,27 @@
+C:\Users\feti\source\repos\Deneme\bin\Debug\Deneme.exe.config
+C:\Users\feti\source\repos\Deneme\bin\Debug\Deneme.exe
+C:\Users\feti\source\repos\Deneme\bin\Debug\Deneme.pdb
+C:\Users\feti\source\repos\Deneme\obj\Debug\Deneme.csprojAssemblyReference.cache
+C:\Users\feti\source\repos\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\feti\source\repos\Deneme\obj\Debug\Deneme.exe
+C:\Users\feti\source\repos\Deneme\obj\Debug\Deneme.pdb
+F:\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+F:\Deneme\obj\Debug\Deneme.exe
+F:\Deneme\obj\Debug\Deneme.pdb
+F:\Deneme\bin\Debug\Deneme.exe.config
+F:\Deneme\bin\Debug\Deneme.exe
+F:\Deneme\bin\Debug\Deneme.pdb
+F:\Deneme\obj\Debug\Deneme.csprojAssemblyReference.cache
+H:\Deneme\bin\Debug\Deneme.exe.config
+H:\Deneme\bin\Debug\Deneme.exe
+H:\Deneme\bin\Debug\Deneme.pdb
+H:\Deneme\obj\Debug\Deneme.csprojAssemblyReference.cache
+H:\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+H:\Deneme\obj\Debug\Deneme.exe
+H:\Deneme\obj\Debug\Deneme.pdb
+C:\Users\feti\Desktop\Ders Notları\Alistirmalar\bin\Debug\Deneme.exe.config
+C:\Users\feti\Desktop\Ders Notları\Alistirmalar\bin\Debug\Deneme.exe
+C:\Users\feti\Desktop\Ders Notları\Alistirmalar\bin\Debug\Deneme.pdb
+C:\Users\feti\Desktop\Ders Notları\Alistirmalar\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\feti\Desktop\Ders Notları\Alistirmalar\obj\Debug\Deneme.exe
+C:\Users\feti\Desktop\Ders Notları\Alistirmalar\obj\Debug\Deneme.pdb

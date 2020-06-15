@@ -1,0 +1,7 @@
+C:\Users\feti\Desktop\Ders Notları\Alistirmalar\bin\Debug\Deneme.exe.config
+C:\Users\feti\Desktop\Ders Notları\Alistirmalar\bin\Debug\Deneme.exe
+C:\Users\feti\Desktop\Ders Notları\Alistirmalar\bin\Debug\Deneme.pdb
+C:\Users\feti\Desktop\Ders Notları\Alistirmalar\obj\Debug\Alistirmalar.csprojAssemblyReference.cache
+C:\Users\feti\Desktop\Ders Notları\Alistirmalar\obj\Debug\Alistirmalar.csproj.CoreCompileInputs.cache
+C:\Users\feti\Desktop\Ders Notları\Alistirmalar\obj\Debug\Deneme.exe
+C:\Users\feti\Desktop\Ders Notları\Alistirmalar\obj\Debug\Deneme.pdb
