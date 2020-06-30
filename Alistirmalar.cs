@@ -13,7 +13,6 @@ namespace Alistirma
 
             #region for 1-100 arası bir ekleyerek yazdırma
 
-
             //for (int i = 1; i <= 100; i++)
 
             //{
@@ -324,7 +323,7 @@ namespace Alistirma
              */
             #endregion
 
-            #region ekrana 5 defa sayı girilip, girilen sayı kadar yıldız yazdırılacak, devam etmek istediğimizi soracak
+           #region ekrana 5 defa sayı girilip, girilen sayı kadar yıldız yazdırılacak, devam etmek istediğimizi soracak
 
             //int abc = 1;
             //int count = 1;
@@ -389,8 +388,23 @@ namespace Alistirma
             */
             #endregion
 
-            #region Async and Await
+            #region Fibonacci dizilimi
 
+            //int x = 0;
+            //int y = 1, z;
+            //int sayi;
+            //Console.WriteLine("Adım sayısını giriniz: ");
+            //sayi = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine();
+            //Console.WriteLine(x + " " + "\n" + y + " ");
+            //for (int i = 0; i < sayi - 2; i++)
+            //{
+            //    z = x + y;
+            //    Console.WriteLine(z);
+            //    x = y;
+            //    y = z;
+            //}
+            //Console.ReadKey();
 
             #endregion
         }
