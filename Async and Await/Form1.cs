@@ -21,7 +21,7 @@ namespace WindowsFormsApp3
         private int CountCharacters()
         {
             int count = 0;
-            using (StreamReader reader = new StreamReader("C:\\Users\\feti\\Documents\\repos\\Async and Await\\New Text Document.txt"))
+            using (StreamReader reader = new StreamReader("C:\\Users\\feti\\Documents\\GitHub\\Alistirmalar\\Async and Await\\New Text Document.txt"))
             {
                 string content = reader.ReadToEnd();
                 count = content.Length;
