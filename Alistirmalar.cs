@@ -441,6 +441,14 @@
 
             //Console.ReadKey();
             #endregion
+
+            #region Ternary Operator in Console Writeline
+            //string question = "Are you cold?";
+            //int temp = 10;
+            //Console.WriteLine($"They asked, \"{question}?\", but didnt wait for a reply :{{{{");
+            //Console.WriteLine($"it is {temp} degree{(temp > 1 ? "s" : "")}. {(temp > 50 ? "no i am not" : "yes, i am")}");
+            //Console.ReadKey();
+            #endregion
         }
     }
 }
