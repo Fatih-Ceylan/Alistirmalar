@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Alistirma
+﻿namespace Alistirma
 {
     class Alistirmalar
     {
@@ -323,7 +317,7 @@ namespace Alistirma
              */
             #endregion
 
-           #region ekrana 5 defa sayı girilip, girilen sayı kadar yıldız yazdırılacak, devam etmek istediğimizi soracak
+            #region ekrana 5 defa sayı girilip, girilen sayı kadar yıldız yazdırılacak, devam etmek istediğimizi soracak
 
             //int abc = 1;
             //int count = 1;
@@ -360,32 +354,33 @@ namespace Alistirma
             #endregion
 
             #region dizi içindeki tek ve çift sayıları ayıklama
-
-            /// İlk olarak tek ve çift sayılarımızı tutacak iki adet değişken tanımlıyoruz.
-            string teksayilar = "";
-            string ciftsayilar = "";
-            /// Burada int[] ifadesiyle te boyutlu bir dizi tanımlıyoruz ve 0'dan 9'a kadar elaman atıyoruz.
-            int[] dizi = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
-            /// Döngümüzü kuruyoruz. Döngümüz 0'dan başlayıp dizideki elaman sayısı kadar dönecek.
-            for (int i = 0; i < dizi.Length; i++)
-            {
-                // Burada dizinin i. elemanının 2'ye göre modunu alıyoruz.
-                // Eğer sonuc 1 ise sayı tektir.
-                if (dizi[i] % 2 == 1)
-                    teksayilar += dizi[i].ToString();
-                else
-                    // Değilse sayı çifttir.
-                    ciftsayilar += dizi[i].ToString();
-            }
-            /// Daha sonra kullanıcıya mesaj olarak veriyoruz. Burayı istediğiniz şekilde yazdırabilirsiniz.
-            Console.WriteLine("TekSayı: " + teksayilar.ToString() + " / ÇiftSayı: " + ciftsayilar.ToString());
-            Console.ReadLine();
-
-            /* alternatif yol
+            /*
+                        /// İlk olarak tek ve çift sayılarımızı tutacak iki adet değişken tanımlıyoruz.
+                        string teksayilar = "";
+                        string ciftsayilar = "";
+                        /// Burada int[] ifadesiyle te boyutlu bir dizi tanımlıyoruz ve 0'dan 9'a kadar elaman atıyoruz.
+                        int[] dizi = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+                        /// Döngümüzü kuruyoruz. Döngümüz 0'dan başlayıp dizideki elaman sayısı kadar dönecek.
+                        for (int i = 0; i < dizi.Length; i++)
+                        {
+                            // Burada dizinin i. elemanının 2'ye göre modunu alıyoruz.
+                            // Eğer sonuc 1 ise sayı tektir.
+                            if (dizi[i] % 2 == 1)
+                                teksayilar += dizi[i].ToString();
+                            else
+                                // Değilse sayı çifttir.
+                                ciftsayilar += dizi[i].ToString();
+                        }
+                        /// Daha sonra kullanıcıya mesaj olarak veriyoruz. Burayı istediğiniz şekilde yazdırabilirsiniz.
+                        Console.WriteLine("TekSayı: " + teksayilar.ToString() + " / ÇiftSayı: " + ciftsayilar.ToString());
+                        Console.ReadLine();
 
 
+                        /* alternatif yol
 
-            */
+
+
+                        */
             #endregion
 
             #region Fibonacci dizilimi
@@ -406,6 +401,45 @@ namespace Alistirma
             //}
             //Console.ReadKey();
 
+            #endregion
+
+            #region Kelime tahmin etme
+
+            //string secretWord = "giraffe";
+            //string guess = "";
+            //int guessCount = 0;
+            //int guessLimit = 4;
+            //bool outOfGuesses = false;
+
+            //Console.WriteLine("Guess the magic word! \n");
+            //while (guess != secretWord && !outOfGuesses)
+            //{
+            //    if (guessCount < guessLimit)
+            //    {
+            //        Console.Write("Enter your guess: ");
+            //        guess = Console.ReadLine();
+            //        guessCount++;
+
+            //        if (guessCount != guessLimit)
+            //        {
+            //            Console.WriteLine($"Remaining guess: {guessLimit - guessCount}");
+            //        }
+            //    }
+            //    else
+            //    {
+            //        outOfGuesses = true;
+            //    }
+            //}
+            //if (outOfGuesses)
+            //{
+            //    Console.WriteLine("You Lose!");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("You Win!");
+            //}
+
+            //Console.ReadKey();
             #endregion
         }
     }

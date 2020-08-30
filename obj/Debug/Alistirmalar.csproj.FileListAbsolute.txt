@@ -11,3 +11,4 @@ C:\Users\feti\Documents\GitHub\Alistirmalar\obj\Debug\Deneme.pdb
 C:\Users\feti\Documents\GitHub\Alistirmalar\bin\Debug\Deneme.exe.config
 C:\Users\feti\Documents\GitHub\Alistirmalar\bin\Debug\Deneme.exe
 C:\Users\feti\Documents\GitHub\Alistirmalar\bin\Debug\Deneme.pdb
+C:\Users\feti\Documents\GitHub\Alistirmalar\obj\Debug\Alistirmalar.csproj.CoreCompileInputs.cache
