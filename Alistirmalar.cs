@@ -449,6 +449,21 @@
             //Console.WriteLine($"it is {temp} degree{(temp > 1 ? "s" : "")}. {(temp > 50 ? "no i am not" : "yes, i am")}");
             //Console.ReadKey();
             #endregion
+                
+                #region reverse str
+                 //public static string FirstReverse(string str) {
+
+    //char[] cArray = str.ToCharArray();
+
+    //string reverse = String.Empty;
+    //for(int i=cArray.Length-1; i>-1;i--)
+    //{
+    //reverse+= cArray[i];
+    //}
+    //return reverse;
+    //}
+                    #endregion
+                
         }
     }
 }
