@@ -19,9 +19,10 @@ C:\Users\feti\source\repos\Async and Await\obj\Debug\WindowsFormsApp3.pdb
 C:\Users\feti\Documents\GitHub\Alistirmalar\Async and Await\bin\Debug\WindowsFormsApp3.exe.config
 C:\Users\feti\Documents\GitHub\Alistirmalar\Async and Await\bin\Debug\WindowsFormsApp3.exe
 C:\Users\feti\Documents\GitHub\Alistirmalar\Async and Await\bin\Debug\WindowsFormsApp3.pdb
-C:\Users\feti\Documents\GitHub\Alistirmalar\Async and Await\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
 C:\Users\feti\Documents\GitHub\Alistirmalar\Async and Await\obj\Debug\WindowsFormsApp3.Form1.resources
 C:\Users\feti\Documents\GitHub\Alistirmalar\Async and Await\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
 C:\Users\feti\Documents\GitHub\Alistirmalar\Async and Await\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
 C:\Users\feti\Documents\GitHub\Alistirmalar\Async and Await\obj\Debug\WindowsFormsApp3.exe
 C:\Users\feti\Documents\GitHub\Alistirmalar\Async and Await\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\feti\Documents\GitHub\Alistirmalar\Async and Await\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\feti\Documents\GitHub\Alistirmalar\Async and Await\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
