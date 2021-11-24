@@ -5,10 +5,10 @@ C:\Users\feti\Desktop\Ders Notları\Alistirmalar\obj\Debug\Alistirmalar.csprojAs
 C:\Users\feti\Desktop\Ders Notları\Alistirmalar\obj\Debug\Alistirmalar.csproj.CoreCompileInputs.cache
 C:\Users\feti\Desktop\Ders Notları\Alistirmalar\obj\Debug\Deneme.exe
 C:\Users\feti\Desktop\Ders Notları\Alistirmalar\obj\Debug\Deneme.pdb
+C:\Users\feti\Documents\GitHub\Alistirmalar\obj\Debug\Alistirmalar.csprojAssemblyReference.cache
 C:\Users\feti\Documents\GitHub\Alistirmalar\obj\Debug\Deneme.exe
 C:\Users\feti\Documents\GitHub\Alistirmalar\obj\Debug\Deneme.pdb
 C:\Users\feti\Documents\GitHub\Alistirmalar\bin\Debug\Deneme.exe.config
 C:\Users\feti\Documents\GitHub\Alistirmalar\bin\Debug\Deneme.exe
 C:\Users\feti\Documents\GitHub\Alistirmalar\bin\Debug\Deneme.pdb
 C:\Users\feti\Documents\GitHub\Alistirmalar\obj\Debug\Alistirmalar.csproj.CoreCompileInputs.cache
-C:\Users\feti\Documents\GitHub\Alistirmalar\obj\Debug\Alistirmalar.csproj.AssemblyReference.cache
