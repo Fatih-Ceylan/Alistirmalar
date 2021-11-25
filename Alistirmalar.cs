@@ -406,6 +406,19 @@ namespace Alistirma
             //    y = z;
             //}
             //Console.ReadKey();
+                
+                 ///alternatif
+            //int ilk = 0, ikinci = 1;
+            //Console.WriteLine("Adım sayısını giriniz");
+            //int toplamDongu = Convert.ToInt32(Console.ReadLine());
+            //for (int i = 0; i <= toplamDongu; i++)
+            //{
+            //    int toplam = ilk + ikinci;
+            //    Console.WriteLine(toplam);
+            //    ilk = ikinci;
+            //    ikinci = toplam;
+            //}
+            //Console.ReadKey();
 
             #endregion
 
