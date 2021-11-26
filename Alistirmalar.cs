@@ -8,6 +8,23 @@ namespace Alistirma
 {
     class Alistirmalar
     {
+        static int[] solve(int a0, int a1, int a2, int b0, int b1, int b2)
+        {
+        // Complete this function
+        int[] solve = {0, 0};
+        int[] a = {a0, a1, a2};
+        int[] b = {b0, b1, b2};
+        for (int i = 0; i < 3; i++)
+        {
+            if (a[i] > b[i]) 
+                solve[0] += 1;
+            if (a[i] < b[i])
+                solve[1] += 1;
+        }
+        return solve;
+        }
+        
+        
         static void Main(string[] args)
         {
 
