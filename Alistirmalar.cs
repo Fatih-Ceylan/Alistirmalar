@@ -73,6 +73,7 @@ namespace Alistirma
 
             //Console.Write("1.sayiyi giriniz: ");
             //int sayi1 = Convert.ToInt32(Console.ReadLine());
+                
             //Console.Write("2.sayiyi giriniz: ");
             //int sayi2 = Convert.ToInt32(Console.ReadLine());
 
